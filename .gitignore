@@ -1,0 +1,15 @@
+# Python
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (raw should not be tracked)
+data/raw/
+data/*.csv
+
+# VSCode
+.vscode/
